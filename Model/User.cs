@@ -20,9 +20,9 @@ namespace Xipa_Poshta.Model
 
         public required string Email { get; set; }
 
-        public required int Age {  get; set; }
+        public required DateTime BirthDate {  get; set; }
 
-        public int PhoneNumber { get; set; }
+        public ulong PhoneNumber { get; set; }
 
         public string Avatar { get; set; } = string.Empty;
 
