@@ -1,0 +1,6 @@
+@XipaPoshta_HostAddress = http://localhost:5104
+
+GET {{XipaPoshta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
