@@ -26,6 +26,7 @@ namespace Xipa_Poshta.Model
 
         public string Avatar { get; set; } = string.Empty;
 
+        
         public required ICollection<Role> Roles { get; set; } = new HashSet<Role>();
 
         public ICollection<Transaction>? Transactions { get; set; } = new List<Transaction>();
