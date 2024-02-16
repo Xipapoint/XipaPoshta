@@ -20,4 +20,11 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Dto\User\Response\" />
+    <Folder Include="Repository\Impl\" />
+    <Folder Include="NewFolder\" />
+    <Folder Include="Service\Impl\" />
+  </ItemGroup>
+
 </Project>
