@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XipaPoshta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01b4ca9df863217151b8e6e98655d3bd3ecca529")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+786693d383d0e65ae93fc7465418d1e065f9cf01")]
 [assembly: System.Reflection.AssemblyProductAttribute("XipaPoshta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XipaPoshta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
